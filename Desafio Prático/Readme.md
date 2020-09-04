@@ -1,0 +1,1 @@
+A ideia desse desafio foi desenvolver um sistema de recomendação de Leads. Leads são os potenciais clientes de uma empresa no mercado. O sistema recebe um portifólio de clientes de uma empresa e retorna as empresas com características semelhantes aos clientes.
